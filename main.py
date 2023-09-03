@@ -1,4 +1,4 @@
-# http://127.0.0.1:5000/show_calendar
+
 import pymysql
 from flask import Flask, render_template, jsonify, request
 
